@@ -88,8 +88,8 @@ FRONTEND_URL=https://your-frontend.onrender.com
 - `POST /api/tasks/suggest-estimate` - Generate AI time estimations for a task
 
 ## 🔗 Links & Credentials
-- **Live Backend API:** `[Insert Render Backend URL Here]`
-- **Frontend Live Demo:** `[Insert Render Frontend URL Here]`
+- **Live Backend API:** `https://taskflow-backend-1-6twj.onrender.com`
+- **Frontend Live Demo:** [https://taskflowmanger.netlify.app](https://taskflowmanger.netlify.app)
 - **Test Credentials:** 
   - Email: `test@test.com`
   - Password: `password123`
